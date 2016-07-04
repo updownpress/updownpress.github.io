@@ -1,2 +1,2 @@
-# updownpress.github.io
-Up &amp; Down Press Bookshelf
+
+Up & Down Press Bookshelf - [updownpress.github.io](http://updownpress.github.io)
